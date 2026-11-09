@@ -1,0 +1,101 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season
+1,55,Male,Blouse,Clothing,53,Kentucky,L,Gray,Winter
+2,19,Male,Sweater,Clothing,64,Maine,L,Maroon,Winter
+3,50,Male,Jeans,Clothing,73,Massachusetts,S,Maroon,Spring
+4,21,Male,Sandals,Footwear,90,Rhode Island,M,Maroon,Spring
+5,45,Male,Blouse,Clothing,49,Oregon,M,Turquoise,Spring
+6,46,Male,Sneakers,Footwear,20,Wyoming,M,White,Summer
+7,63,Male,Shirt,Clothing,85,Montana,M,Gray,Fall
+8,27,Male,Shorts,Clothing,34,Louisiana,L,Charcoal,Winter
+9,26,Male,Coat,Outerwear,97,West Virginia,L,Silver,Summer
+10,57,Male,Handbag,Accessories,31,Missouri,M,Pink,Spring
+11,53,Male,Shoes,Footwear,34,Arkansas,L,Purple,Fall
+12,30,Male,Shorts,Clothing,68,Hawaii,S,Olive,Winter
+13,61,Male,Coat,Outerwear,72,Delaware,M,Gold,Winter
+14,65,Male,Dress,Clothing,51,New Hampshire,M,Violet,Spring
+15,64,Male,Coat,Outerwear,53,New York,L,Teal,Winter
+16,64,Male,Skirt,Clothing,81,Rhode Island,M,Teal,Winter
+17,25,Male,Sunglasses,Accessories,36,Alabama,S,Gray,Spring
+18,53,Male,Dress,Clothing,38,Mississippi,XL,Lavender,Winter
+19,52,Male,Sweater,Clothing,48,Montana,S,Black,Summer
+20,66,Male,Pants,Clothing,90,Rhode Island,M,Green,Summer
+21,21,Male,Pants,Clothing,51,Louisiana,M,Black,Winter
+22,31,Male,Pants,Clothing,62,North Carolina,M,Charcoal,Winter
+23,56,Male,Pants,Clothing,37,California,M,Peach,Summer
+24,31,Male,Pants,Clothing,88,Oklahoma,XL,White,Winter
+25,18,Male,Jacket,Outerwear,22,Florida,M,Green,Fall
+26,18,Male,Hoodie,Clothing,25,Texas,M,Silver,Summer
+27,38,Male,Jewelry,Accessories,20,Nevada,M,Red,Spring
+28,56,Male,Shorts,Clothing,56,Kentucky,L,Cyan,Summer
+29,54,Male,Handbag,Accessories,94,North Carolina,M,Gray,Fall
+30,31,Male,Dress,Clothing,48,Wyoming,S,Black,Fall
+31,57,Male,Jewelry,Accessories,31,North Carolina,L,Black,Winter
+32,33,Male,Dress,Clothing,79,West Virginia,L,Brown,Winter
+33,36,Male,Jacket,Outerwear,67,Kansas,M,Silver,Summer
+34,54,Male,Pants,Clothing,38,Colorado,L,Green,Summer
+35,36,Male,T-shirt,Clothing,91,North Dakota,L,Violet,Spring
+36,54,Male,Blouse,Clothing,33,Massachusetts,M,Cyan,Summer
+37,35,Male,T-shirt,Clothing,69,Illinois,M,Maroon,Winter
+38,35,Male,Jeans,Clothing,45,Indiana,S,Cyan,Summer
+39,29,Male,Dress,Clothing,37,Florida,M,Red,Winter
+40,70,Male,Pants,Clothing,60,Arizona,S,Turquoise,Summer
+41,69,Male,Handbag,Accessories,76,Louisiana,L,Beige,Winter
+42,67,Male,Scarf,Accessories,39,Alaska,M,Orange,Spring
+43,20,Male,Coat,Outerwear,100,Tennessee,M,Beige,Spring
+44,25,Male,Scarf,Accessories,69,Ohio,L,Lavender,Fall
+45,39,Male,Hat,Accessories,53,Kentucky,S,Silver,Summer
+46,50,Male,Socks,Clothing,21,Tennessee,XL,Indigo,Fall
+47,57,Male,Shirt,Clothing,43,California,L,White,Summer
+48,55,Male,Jewelry,Accessories,54,Montana,M,Charcoal,Winter
+49,42,Male,Shirt,Clothing,55,Nevada,M,Orange,Summer
+50,68,Male,Hoodie,Clothing,30,New Jersey,S,Indigo,Spring
+51,49,Male,Blouse,Clothing,28,Maryland,M,Red,Spring
+52,59,Male,Skirt,Clothing,59,Vermont,XL,Gray,Winter
+53,42,Male,T-shirt,Clothing,20,Alaska,M,Green,Summer
+54,29,Male,Skirt,Clothing,24,Mississippi,S,Peach,Winter
+55,47,Male,Coat,Outerwear,94,New Mexico,M,Brown,Summer
+56,40,Male,Jacket,Outerwear,28,South Carolina,M,Lavender,Winter
+57,41,Male,Backpack,Accessories,73,Mississippi,XL,Brown,Summer
+58,21,Male,Coat,Outerwear,64,West Virginia,M,White,Summer
+59,69,Male,Hoodie,Clothing,54,Missouri,M,Charcoal,Summer
+60,63,Male,Belt,Accessories,79,Louisiana,L,Yellow,Spring
+61,50,Male,Sweater,Clothing,37,Idaho,L,Brown,Summer
+62,55,Male,Scarf,Accessories,68,Texas,M,Orange,Winter
+63,30,Male,Sneakers,Footwear,21,Mississippi,S,Magenta,Spring
+64,33,Male,Sunglasses,Accessories,79,Arizona,L,Lavender,Winter
+65,65,Male,Boots,Footwear,83,Alabama,S,Green,Fall
+66,65,Male,Backpack,Accessories,36,New Jersey,M,Purple,Spring
+67,31,Male,Blouse,Clothing,94,Pennsylvania,S,Magenta,Winter
+68,45,Male,Coat,Outerwear,33,Connecticut,L,Gray,Winter
+69,57,Male,Handbag,Accessories,46,Utah,L,Silver,Summer
+70,48,Male,Belt,Accessories,70,Tennessee,S,Cyan,Summer
+71,22,Male,Belt,Accessories,29,Alabama,M,Magenta,Fall
+72,36,Male,Dress,Clothing,48,Virginia,L,Gold,Summer
+73,18,Male,Dress,Clothing,26,Georgia,M,Olive,Winter
+74,48,Male,Pants,Clothing,85,Hawaii,M,Teal,Spring
+75,49,Male,Gloves,Accessories,58,Indiana,L,Violet,Spring
+76,64,Male,Scarf,Accessories,85,Utah,M,Blue,Summer
+77,50,Male,Hat,Accessories,43,Delaware,S,Teal,Summer
+78,22,Male,Dress,Clothing,53,Delaware,L,Gold,Summer
+79,50,Male,Skirt,Clothing,91,Nebraska,M,Maroon,Spring
+80,38,Male,Jacket,Outerwear,96,Iowa,M,Olive,Winter
+81,19,Male,Sandals,Footwear,72,New York,XL,Blue,Summer
+82,67,Male,Shoes,Footwear,96,Virginia,L,Maroon,Summer
+83,19,Male,Pants,Clothing,28,Georgia,S,Olive,Spring
+84,36,Male,Dress,Clothing,40,Texas,M,Turquoise,Summer
+85,52,Male,Coat,Outerwear,32,Arizona,S,Peach,Spring
+86,53,Male,Sunglasses,Accessories,95,New Mexico,M,Charcoal,Winter
+87,24,Male,Hoodie,Clothing,41,Nevada,L,Pink,Spring
+88,52,Male,Shoes,Footwear,53,Ohio,M,Green,Fall
+89,33,Male,T-shirt,Clothing,47,Wyoming,M,Orange,Fall
+90,47,Male,Jacket,Outerwear,83,California,XL,Pink,Fall
+91,25,Male,Hat,Accessories,48,South Carolina,L,Violet,Summer
+92,44,Male,Scarf,Accessories,99,South Carolina,S,Green,Winter
+93,61,Male,Jacket,Outerwear,87,Texas,M,Olive,Winter
+94,37,Male,Sweater,Clothing,62,Florida,M,Purple,Fall
+95,58,Male,Skirt,Clothing,76,Nevada,S,Silver,Spring
+96,37,Male,Sneakers,Footwear,100,Missouri,L,Pink,Fall
+97,32,Male,Gloves,Accessories,73,Delaware,S,Gold,Spring
+98,21,Male,Shoes,Footwear,92,Virginia,M,Teal,Winter
+99,20,Male,Jeans,Clothing,67,New York,XL,Teal,Spring
+100,26,Male,Hoodie,Clothing,40,Missouri,XL,Indigo,Summer
